@@ -1,0 +1,73 @@
+---
+title: |
+
+  | ***$\text{\underline{e-Content Resource Reference Document}}$***
+  | **Applied Electronics and Instrumentation**
+
+subtitle: "Subject Code:EE-2.4.3"
+author: | 
+  | Er.J.Sravankumar
+  | Asst. Professor(Electrical Engg.)
+  | Dept. of Basic Engineering & App.Sciences
+  | College of Agricultural Engg. & Tech., AAU,Godhra
+date: \ `r format(Sys.Date(), "%d/%m/%Y")`  
+fontsize: 8pt
+geometry: "left=2cm,right=2cm,top=0.25cm,bottom=0.25cm"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### INTRODUCTION
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A massive open online course (MOOC) is an online course aimed at unlimited participation and open access via the web which includes traditional course materials, such as filmed lectures, readings, and problem sets.
+    
++ ***[$\text{\underline{\color{blue}Click here}}$](https://en.wikipedia.org/wiki/List_of_MOOCs) to see the list of notable online MOOC providers***.
+
++ Variety of econtent(web content and filmed/video lectures) is referred here in this document for the benefit of learners and, advised to follow which ever the mode of content is comfortable.
+
+### SYLLABUS
+
++ The syllabus is mainly comprised of two sections. First component is the APPLIED ELECTRONICS and secondly INSTRUMENTATION component. Therefore learners are advised proceed accordingly.
+
++ ***[$\text{\underline{\color{blue}Click here}}$](http://www.aau.in/college-menu/707/1178) to access the syllabus content of B.Tech. (Agricultural Engineering) (5th Dean)***, download and scroll for Applied Electronics and Instrumentation-EE.2.4.3.
+
+### APPLIED ELECTRONICS AND INSTRUMENTATION
+
+**Web Content**
+
++ Consolidated web content or notes has been developed by different MOOC providers. Here, ecourse content available at iasri has been cited which is found suitable and apt for the learners of College of Agricultural Engineering and Technology, Anand Agricultural University, Godhra.
+
++ ***[$\text{\underline{\color{blue}Click here}}$](http://ecoursesonline.iasri.res.in/course/view.php?id=528) for consolidated webcontent or notes of complete syllabus***
+
++ Learners are advised to study all modules in the above content.
+
+### APPLIED ELECTRONICS
+
+**Video Lectures**
+
++ Only those lectures which are understandable by all levels of learners are provided here. Many other resources too available on web. 
+
++ As per the syllabus, Modules 1,2 and 4 are recommended.
+
++ ***[$\text{\underline{\color{blue}Click here}}$](https://nptel.ac.in/courses/117103063/#) for video/filmed lectures*** of modules 1,2 and 4.
+
+#### Additional Resources(in general)
++ ***[$\text{\underline{\color{blue}Click here}}$](https://ecourses.icar.gov.in/) to access e-krishi Shiksha portal of ICAR***.
++ ***[$\text{\underline{\color{blue}Click here}}$](https://krishikosh.egranth.ac.in) to access institutional thesis repository of ICAR***.
++ ***[$\text{\underline{\color{blue}Click here}}$](https://icar.org.in/e-books) to access collection of e-books published by ICAR***.
++ ***[$\text{\underline{\color{blue}Click here}}$](http://epubs.icar.org.in/ejournal/) to access different e-journals published by ICAR***.
++ ***[$\text{\underline{\color{blue}Click here}}$](https://ocw.mit.edu/) to access MIT open courseware(OCW)***.
+
+***Note: At any stage, if the learner, is unable to grasp things, he is free to learn the same from any other resource mentioned below other than list of MOOCs or recommended to reach the faculty concerned for further help.***
+
+
+
+
+
+
+
+
+
